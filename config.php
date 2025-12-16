@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$dbname = 'automcompletion';
+$dbname = 'autocompletion';
 $user = 'root';
 $pass = '';
 
